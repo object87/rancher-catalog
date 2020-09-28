@@ -1,6 +1,6 @@
 .catalog:
   name: Jenkins
-  version: 2.256-rancher1
+  version: "2.256"
   description: |
     Jenkins CI management server.
   questions:
