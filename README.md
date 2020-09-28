@@ -1,2 +1,2 @@
-# rancher-catalog
-Internal Test Catalog for Rancher
+# Rancher Internal Catalog  
+Internal Private Test Catalog for Rancher
