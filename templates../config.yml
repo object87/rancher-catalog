@@ -1,8 +1,0 @@
-version: '2'
-catalog: Rancher-Internal 
-  name: # Jenkins-CC
-  version: # v0.1
-  description: # Modify Jenkins to use a different listening port
-  minimum_rancher_version: # v1.0.1
-  maximum_rancher_version: # v1.6.X
-  maintainer: Jeff Garcia <jeff.garcia@covered.ca.gov>
